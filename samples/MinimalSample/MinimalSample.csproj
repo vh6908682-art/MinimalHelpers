@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\..\src\MinimalHelpers.Registration\MinimalHelpers.Registration.csproj" />
+    <ProjectReference Include="..\MinimalSample.Handlers\MinimalSample.Handlers.csproj" />
   </ItemGroup>
 
 </Project>
