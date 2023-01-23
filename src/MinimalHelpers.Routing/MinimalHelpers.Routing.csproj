@@ -12,11 +12,11 @@
         <Title>Routing Helpers for Minimal APIs</Title>
         <Description>A library that provides Routing helpers for Minimal API projects, mainly for automatic endpoints registration</Description>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
-        <PackageProjectUrl>https://github.com/marcominerva/MinimalHelpers.Routing</PackageProjectUrl>
+        <PackageProjectUrl>https://github.com/marcominerva/MinimalHelpers</PackageProjectUrl>
         <PackageIcon>Toolbox.png</PackageIcon>
         <PackageTags>csharp visual-studio aspnetcore minimalapi routing utilities helpers</PackageTags>
         <RepositoryType>git</RepositoryType>
-        <RepositoryUrl>https://github.com/marcominerva/MinimalHelpers.Routing.git</RepositoryUrl>
+        <RepositoryUrl>https://github.com/marcominerva/MinimalHelpers.git</RepositoryUrl>
         <RepositoryBranch>master</RepositoryBranch>
         <PackageReadmeFile>README.md</PackageReadmeFile>        
     </PropertyGroup>
